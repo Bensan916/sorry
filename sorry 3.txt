@@ -1,0 +1,16 @@
+// Example: Add a little interaction by making the flowers grow when the user hovers over the letter container.
+const letterContainer = document.querySelector('.letter-container');
+
+letterContainer.addEventListener('mouseenter', () => {
+  const flowers = document.querySelectorAll('.flower');
+  flowers.forEach(flower => {
+    flower.style.transform = 'scale(1.5)';
+  });
+});
+
+letterContainer.addEventListener('mouseleave', () => {
+  const flowers = document.querySelectorAll('.flower');
+  flowers.forEach(flower => {
+    flower.style.transform = 'scale(1)';
+  });
+});

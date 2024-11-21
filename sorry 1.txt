@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Apology Letter</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="letter-container">
+    <div class="letter-content">
+      <h1>My Dearest [Her Name],</h1>
+      <p>I've been thinking a lot about everything that's happened, and I realize that no words can truly fix the hurt I’ve caused. But I hope this letter serves as a step toward showing you how deeply sorry I am, and how much you mean to me.</p>
+      <p>Like the delicate petals of a flower, my love for you is soft, but it’s also strong, and it grows every day. I know that I’ve made mistakes, and I’ve caused you pain when I should have been there for you with nothing but care, respect, and love. Please believe me when I say that I never intended to hurt you—my heart aches knowing I’ve let you down.</p>
+      <p>I want you to know that I am committed to doing better, to listening more, to understanding you in the ways you need me to. If I could take back my words or actions, I would, but I can’t. What I can do is show you, every single day, that I will never stop trying to make things right.</p>
+      <p>I love you more than any apology can express, and I promise to work on being the partner you deserve. I hope we can heal from this, and together, grow stronger than ever—like a garden of beautiful flowers, renewed with time, patience, and care.</p>
+      <p>You mean everything to me. I am truly sorry, and I will spend the rest of my days making it up to you.</p>
+      <footer>- [Your Name]</footer>
+    </div>
+    <div class="flower-effects">
+      <div class="flower"></div>
+      <div class="flower"></div>
+      <div class="flower"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
